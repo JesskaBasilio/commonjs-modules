@@ -1,0 +1,20 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "Project to study CommonJS modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesskaBasilio/commonjs-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesskaBasilio/commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/JesskaBasilio/commonjs-modules#readme"
+}
